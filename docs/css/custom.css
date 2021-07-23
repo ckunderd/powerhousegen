@@ -1,0 +1,80 @@
+body, h1, h2, h3, h4, h5, h6 {font-family: Montserrat, Helvetica, sans-serif;}
+.navbar {min-height: 130px;}
+.navbar ul.nav > li > a {line-height: 83px; text-decoration: none;}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #555555;
+    background-color: #EEE !important;
+}
+.navbar ul.nav > li > a:hover {
+    border-top: solid 5px #273B8B;
+}
+.home-carousel {background: url('../img/banners/banner-6.jpg') no-repeat bottom !important; background-size: cover !important; min-height: 500px !important;}
+.dark-mask {opacity: 0.2 !important; background: #273B8B !important;}
+.home-carousel h1 {text-shadow: 1px 1px 5px #111;}
+.home-carousel .owl-carousel {padding-top: 145px;}
+.box-simple .icon  {color: #273B8B; border-color: #8BC53F;}
+a {color: #8BC53F;}
+.heading h1, .heading h2, .heading h3, .heading h4, .heading h5 {border-bottom-color: #2738b8;}
+.btn-template-main {
+    color: #2738b8;
+    background-color: #ffffff;
+    border-color: #2738b8;
+}
+.btn-template-main:hover, .btn-template-main:focus, .btn-template-main:active, .btn-template-main.active {
+    background: #2738b8;
+    color: #FFF;
+    border-color: #2738b8;
+}
+.backup-generator-splash {
+    background: url(../img/banners/banner-5.jpg) #444 no-repeat right;
+    min-height: 500px;
+    background-size: cover;
+    background-blend-mode: soft-light;
+}
+.testimonials .item .testimonial .text {
+    color: #666;
+    }
+.testimonials .item .testimonial .bottom .icon {
+    color: #2738b8;
+    border: none;
+}
+.testimonials .item {background: rgba(255,255,255,0.8);}
+
+#testimonials p.lead, #testimonials h2 {
+    color: white;
+}
+div#heading-breadcrumbs {
+    background: #EEE;
+    border-top: 10px solid #2738b8;
+}
+.navbar-brand>img {
+    display: block;
+    width: 15em;
+    margin-top: 15px;
+}
+.affix img.hidden-xs.hidden-sm {
+    width: 200px;
+    margin-top: 30px;
+}
+img.visible-xs.visible-sm {
+    width: 235px;
+}
+.navbar .navbar-buttons {
+    float: right;
+    margin-top: 30px;
+}
+@media (max-width:767px){
+.navbar ul.nav > li > a {
+    line-height: 40px;
+    text-decoration: none;
+}
+    .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border: none;
+}
+}
+.subheading {font-size: 50px; font-weight:400;}
+.mainheading {font-size: 100px; font-weight:700;}
+@media (max-width:500px) {
+    .subheading {font-size: 30px; font-weight:400;}
+    .mainheading {font-size: 70px; font-weight:700;}
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Powerhouse Generators</title>
+    <link>https://powerhousegen.com/</link>
+    <description>Recent content on Powerhouse Generators</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://powerhousegen.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://powerhousegen.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://powerhousegen.com/contact/</guid>
+      <description>We are here to help you! If you are interested in a free consultation or quote, or simply have a question about generator maintenance, installation, or something else, please fill out the form below or call us at 248-961-3647.</description>
+    </item>
+    
+  </channel>
+</rss>
