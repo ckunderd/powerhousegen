@@ -44,7 +44,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:gulfcoastgenerators@gmail.com"
+    url = "mailto:info@powerhousegen.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
